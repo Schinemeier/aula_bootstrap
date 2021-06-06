@@ -1,0 +1,26 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar{
+    background-color: #f5a254;
+}
+.quem-somos{
+    background-color: rgb(234, 235, 173);
+    color:grey;
+}
+.trabalhe-conosco{
+    background-color: rgb(116, 110, 201);
+    color:rgb(226, 157, 111);
+}
+.downloads{
+    background-color: silver;
+    color: rgb(219, 219, 159)
+}
+.margin{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
